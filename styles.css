@@ -1,4 +1,4 @@
- * {
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: linear-gradient(to bottom right, rgba(79, 51, 176, 1), rgba(210, 53, 165));
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(133, 133, 133));
 }
 
 .container {
@@ -49,7 +49,7 @@ body {
 }
 
 .theme-toggler.active::before {
-    background-color: #fff;
+    background-color: #f8fafb;
 } 
 
 .theme-toggler::before {
@@ -158,4 +158,3 @@ button#equal {
     background-color: #223323;
     color: #ffffff;
 } 
-
