@@ -131,6 +131,9 @@ button#equal {
 } 
 
 /*Dark Theme*/
+body.dark{
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(133, 133, 133));
+}
 .calculator.dark {
     background-color: #071115;
 }
