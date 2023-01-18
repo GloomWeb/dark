@@ -1,2 +1,2 @@
-# ꩜3Service Dark/Light Theme
+# ꩜3Digits Dark/Light Theme
 Web Calculator Application.
